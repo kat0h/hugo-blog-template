@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://kato-k.github.io/hugo-blog-templatesitemap.xml
