@@ -1,0 +1,43 @@
+# 公開するページのURL
+baseURL = "https://kato-k.github.io/hugo-blog-template"
+
+languageCode = "ja"
+DefaultContentLanguage = "ja"
+HasCJKLanguage = true
+enableRobotsTXT = true
+
+# ブログのタイトル
+title = "hugo-blog-template"
+
+theme = "mainroad"
+paginate = 20
+
+# 自己紹介
+[Author]
+    name = "Author"
+    bio = "ここに自己紹介を入れることができます"
+    avatar = "img/avatar.png"
+
+[Params]
+    customCSS = ["css/custom.css"]
+    copyright = "Author"
+    readmore = true
+    authorbox = true
+    post_meta = ["date", "categories"]
+    twitter_cards = true
+
+# ページのテーマカラー
+[Params.style.vars]
+  highlightColor = "#e22d30"
+
+# SNS等のユーザー名
+[Params.widgets.social]
+  twitter = "uvrub"
+  github = "kato-k"
+
+[Params.sidebar]
+    home = "right"
+    list = "right"
+    single = "right"
+    widgets = ["search", "recent", "categories", "taglist", "social"]
+
