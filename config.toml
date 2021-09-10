@@ -1,5 +1,5 @@
 # 公開するページのURL
-baseURL = "https://kato-k.github.io/hugo-blog-template"
+baseURL = "https://kat0h.github.io/hugo-blog-template"
 
 languageCode = "ja"
 DefaultContentLanguage = "ja"
