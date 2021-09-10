@@ -1,6 +1,8 @@
 ![top](./readme_resource/top.png)
 HUGOを使ったブログを簡単に作成するためのテンプレートです
 
+[MORE INFO (Zenn)](https://zenn.dev/kato_k/articles/66531db0c4024d)
+
 
 ## forkするだけでできること
 - GitHub Actionsによる自動デプロイ
