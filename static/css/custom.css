@@ -1,4 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300&display=swap');
 body {
-    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'メイリオ', 'Meiryo','ＭＳ ゴシック','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3',sans-serif;
+    font-size: 16px;
+}
+
+figure.center {
+    text-align: center;
+}
+figure.center img {
+    margin: 0 auto;
+}
+
+figure.inline {
+    display: inline;
+}
+figure.inline img {
+    display: inline;
 }

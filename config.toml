@@ -1,5 +1,5 @@
 # 公開するページのURL
-baseURL = "https://kat0h.github.io/hugo-blog-template"
+baseURL = "https://koomiy.github.io"
 
 languageCode = "ja"
 DefaultContentLanguage = "ja"
@@ -7,16 +7,16 @@ HasCJKLanguage = true
 enableRobotsTXT = true
 
 # ブログのタイトル
-title = "hugo-blog-template"
+title = "Humanoid Virtual Athletics Challenge 解説ブログ"
 
 theme = "mainroad"
 paginate = 20
 
 # 自己紹介
 [Author]
-    name = "Author"
-    bio = "ここに自己紹介を入れることができます"
-    avatar = "img/avatar.png"
+    name = "Koki Miyatani"
+    bio = "ロボティクスに興味があります。"
+    avatar = "img/scorpion.png"
 
 [Params]
     customCSS = ["css/custom.css"]
@@ -28,12 +28,12 @@ paginate = 20
 
 # ページのテーマカラー
 [Params.style.vars]
-  highlightColor = "#e22d30"
+  highlightColor = "#ffa500"
 
 # SNS等のユーザー名
 [Params.widgets.social]
-  twitter = "uvrub"
-  github = "kato-k"
+  twitter = "@DLl5IwfCxWDXVeG"
+  github = "koomiy"
 
 [Params.sidebar]
     home = "right"
