@@ -14,8 +14,8 @@ paginate = 20
 
 # 自己紹介
 [Author]
-    name = "Koki Miyatani"
-    bio = "ロボティクスに興味があります。"
+    name = "koomiy"
+    bio = "ロボティクスが大好きです"
     avatar = "img/scorpion.png"
 
 [Params]

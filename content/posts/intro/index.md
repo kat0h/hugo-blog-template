@@ -1,12 +1,12 @@
 ---
-title: "001 - Humanoid Virtual Athletics Challengeの紹介"
+title: "001 - HVACの紹介"
 date: 2023-05-10
 categories: ["はじめに"]
 menu: main
 ---
 
 ## ご挨拶
-はじめまして！神戸大学の宮谷と申します。工学部でロボティクスを学んでいます。
+はじめまして！koomiyと申します。工学部でロボティクスを学んでいます。
 今年度から、当ブログで紹介する大会の運営メンバーとなりました。
 
 当ブログでは、人型ロボット競技会の一つであるHumanoid Virtual Athletics Challenge(以下HVAC)について解説します。
